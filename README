@@ -1,0 +1,4 @@
+usb log collected in WSL by command tshark -i usbmon* -w usb*.pcap.
+
+Note:
+there are 3 usbmon interfaces available, not sure which one is the expected one, so collect all for issue analysis.
